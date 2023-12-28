@@ -1,0 +1,13 @@
+langchain
+openai
+PyPDF2
+faiss-cpu
+huggingface-hub
+python-dotenv
+sentence-transformers
+ctransformers==0.2.5
+python-magic-bin==0.4.14
+tiktoken
+Streamlit
+google-generativeai
+langchain-google-genai
