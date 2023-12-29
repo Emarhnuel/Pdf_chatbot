@@ -15,6 +15,8 @@ Running the Application
 Run streamlit run main.py and interact with the chatbot in your browser.
 
 
+
+
 Features:
 
 Upload and process text from PDFs.
@@ -22,6 +24,8 @@ Upload and process text from PDFs.
 Natural language interactions using OpenAI's language models.
 
 Clear chat history functionality.
+
+
 
 
 Contact
