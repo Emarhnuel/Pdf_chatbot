@@ -8,21 +8,25 @@ Conversational AI: Leverage OpenAI's powerful language models for natural and co
 Responsive Interface: Built with Streamlit, the chatbot offers a user-friendly web interface.
 Clear Chat History: Option to clear the chat history for fresh interactions.
 Requirements:
-Python 3.x
-Streamlit
-PyPDF2
-LangChain
-FAISS (CPU version)
-OpenAI API key
-Google Generative AI Embeddings
+Python 3.x,
+Streamlit,
+PyPDF2,
+LangChain,
+FAISS (CPU version),
+OpenAI API key,
+Google Generative AI Embeddings,
 Other dependencies as listed in requirements.txt.
+
+
 Installation
 To run this application, you need to have Python installed on your system. Follow these steps to set up the project:
 
 Clone the Repository:
 
 bash
+
 Copy code
+
 git clone (https://github.com/Emarhnuel/Pdf_chatbot/tree/main/Multiplepdf)
 cd [PDF chatbot]
 Install Dependencies:
