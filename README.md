@@ -13,11 +13,17 @@ Requirements:
 Python 3.x,
 
 Streamlit,
+
 PyPDF2,
+
 LangChain,
+
 FAISS (CPU version),
+
 OpenAI API key,
+
 Google Generative AI Embeddings,
+
 Other dependencies as listed in requirements.txt.
 
 
@@ -31,12 +37,17 @@ bash
 Copy code
 
 git clone (https://github.com/Emarhnuel/Pdf_chatbot/tree/main/Multiplepdf)
+
 cd [PDF chatbot]
+
 Install Dependencies:
 
 bash
+
 Copy code
+
 pip install -r requirements.txt
+
 Set up Environment Variables:
 
 Create a .env file in the project root directory.
