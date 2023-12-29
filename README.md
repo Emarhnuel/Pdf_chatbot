@@ -7,8 +7,11 @@ PDF Processing: Upload and process text from multiple PDF documents.
 Conversational AI: Leverage OpenAI's powerful language models for natural and context-aware interactions.
 Responsive Interface: Built with Streamlit, the chatbot offers a user-friendly web interface.
 Clear Chat History: Option to clear the chat history for fresh interactions.
+
 Requirements:
+
 Python 3.x,
+
 Streamlit,
 PyPDF2,
 LangChain,
