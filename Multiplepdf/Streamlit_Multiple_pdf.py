@@ -12,10 +12,9 @@ import os
 from langchain.chat_models import ChatOpenAI
 from htmlTemplates import css, bot_template, user_template
 
-
-# Set your Google API Key
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyATBqqkTFy5c39UnK4m7pBbjKE8gvC09e8'
-OPENAI_API_KEY = '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'
+# Set your API keys from environment variables
+google_api_key = os.getenv('GOOGLE_API_KEY')
+openai_api_key = os.getenv('OPENAI_API_KEY')
 
 def get_pdf_text(pdf_docs):
     text=""
